@@ -2,7 +2,7 @@ codes for MySQL databases are commented out
 
 for sample database run the sql.py
 
-change the GOOGLE_API_KEY in the .env file
+Create .env file and add GOOGLE_API_KEY
 
 run the app using command: streamlit run app.py
 
